@@ -1,4 +1,4 @@
-A take the McDonald's Observer Saga from Jimmy Bogard's NSB 2014 presentation "Scaling NServiceBus": http://fast.wistia.net/embed/iframe/y56svovwnk?popover=true. Start at 28:00
+A take the McDonald's Observer Saga (upgraded to use NServiceBus 6)from Jimmy Bogard's NSB 2014 presentation "Scaling NServiceBus": http://fast.wistia.net/embed/iframe/y56svovwnk?popover=true. Start at 28:00
 
 To run the solution:
 - mark .ClassClient, .SagaEndpoint and .MenuStationEndpoint for startup
