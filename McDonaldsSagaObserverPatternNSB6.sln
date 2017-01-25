@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McDonaldsSagaObserverPattern.ClassClient", "McDonaldsSagaObserverPattern.ClassClient\McDonaldsSagaObserverPattern.ClassClient.csproj", "{FF7390E5-3E72-4BB9-9B96-39626C19634E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McDonaldsSagaObserverPattern.Messages", "McDonaldsSagaObserverPattern.Messages\McDonaldsSagaObserverPattern.Messages.csproj", "{F02AD79A-8130-4B2B-8EEE-CCBAD557655D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McDonaldsSagaObserverPattern.SagaEndpoint", "McDonaldsSagaObserverPattern.SagaEndpoint\McDonaldsSagaObserverPattern.SagaEndpoint.csproj", "{50282612-F2A3-43F2-B8BC-AFF9F0D7A24E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E571A6FE-7A6D-43FE-A2CF-87E418C696D3}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McDonaldsSagaObserverPattern.Conventions", "McDonaldsSagaObserverPattern.Conventions\McDonaldsSagaObserverPattern.Conventions.csproj", "{1C98496F-7DFF-4F98-BA26-ABBAD1AE2A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McDonaldsSagaObserverPattern.MenuStationEndpoint", "McDonaldsSagaObserverPattern.MenuStationEndpoint\McDonaldsSagaObserverPattern.MenuStationEndpoint.csproj", "{D5534D38-31E7-4B54-BA44-9CD8504F9DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7390E5-3E72-4BB9-9B96-39626C19634E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7390E5-3E72-4BB9-9B96-39626C19634E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7390E5-3E72-4BB9-9B96-39626C19634E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7390E5-3E72-4BB9-9B96-39626C19634E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02AD79A-8130-4B2B-8EEE-CCBAD557655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02AD79A-8130-4B2B-8EEE-CCBAD557655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02AD79A-8130-4B2B-8EEE-CCBAD557655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02AD79A-8130-4B2B-8EEE-CCBAD557655D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50282612-F2A3-43F2-B8BC-AFF9F0D7A24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50282612-F2A3-43F2-B8BC-AFF9F0D7A24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50282612-F2A3-43F2-B8BC-AFF9F0D7A24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50282612-F2A3-43F2-B8BC-AFF9F0D7A24E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C98496F-7DFF-4F98-BA26-ABBAD1AE2A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C98496F-7DFF-4F98-BA26-ABBAD1AE2A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C98496F-7DFF-4F98-BA26-ABBAD1AE2A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C98496F-7DFF-4F98-BA26-ABBAD1AE2A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5534D38-31E7-4B54-BA44-9CD8504F9DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5534D38-31E7-4B54-BA44-9CD8504F9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5534D38-31E7-4B54-BA44-9CD8504F9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5534D38-31E7-4B54-BA44-9CD8504F9DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
